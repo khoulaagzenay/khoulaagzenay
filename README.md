@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm khaoula agzenay, .net Developer</h1>
 
 
-- I’m currently working on [KayLedger](https://kayledger.vercel.app/) : KayLedger is a modern accounting management application designed to provide entrepreneurs, freelancers, and small businesses with a smooth, intuitive, and professional‑grade experience.  
-The platform centralizes client management, invoicing, payments, and double‑entry bookkeeping, while automating the generation of the journal, general ledger, trial balance, and financial statements.
-With its robust architecture and premium user interface, KayLedger streamlines daily accounting operations, reduces errors, and enables business owners to manage their financial activity with precision.
+- I’m currently working on [KayLedger](https://kayledger.vercel.app/) : KayLedger is a modern accounting management application designed to provide entrepreneurs, freelancers, and small businesses with a smooth, intuitive, and professional‑grade experience.The platform centralizes client management, invoicing, payments, and double‑entry bookkeeping, while automating the generation of the journal, general ledger, trial balance, and financial statements. With its robust architecture and premium user interface, KayLedger streamlines daily accounting operations, reduces errors, and enables business owners to manage their financial activity with precision.
 
-Frontend: React, Vite, Tailwind CSS 4
-Backend: ASP.NET Core 8, Clean Architecture , MediatR (CQRS pattern) , Entity Framework Core. 
-Database: PostgreSQL
-DevOps: Docker, GitHub, Vercel (frontend hosting). 
-Quality & Observability: Serilog (structured logging), Swagger (API documentation), EF Core migrations
+* Frontend: React, Vite, Tailwind CSS 4.
+* Backend: ASP.NET Core 8, Clean Architecture , MediatR (CQRS pattern) , Entity Framework Core.
+* Database: PostgreSQL
+* DevOps: Docker, GitHub, Vercel (frontend hosting).
+* Quality & Observability: Serilog (structured logging), Swagger (API documentation), EF Core migrations
 
-- I worked in collaboration on: [Truebalances](https://github.com/khoulaagzenay/Truebalances) : True Balances is a modern ASP.NET Core MVC web application designed to simplify the management of shared expenses between multiple users.  
-The platform enables groups—friends, roommates, teams, or families—to record expenses in real time and automatically calculates individual balances, debts, and reimbursements. This ensures a transparent, accurate, and fair distribution of shared costs.
-Built with a clean and scalable architecture, True Balances integrates secure user authentication, structured expense categorization, and a dynamic dashboard that provides a clear overview of group spending and individual contributions.
+- I worked in collaboration on: [Truebalances](https://github.com/khoulaagzenay/Truebalances) : True Balances is a modern ASP.NET Core MVC web application designed to simplify the management of shared expenses between multiple users. The platform enables groups—friends, roommates, teams, or families—to record expenses in real time and automatically calculates individual balances, debts, and reimbursements. This ensures a transparent, accurate, and fair distribution of shared costs. Built with a clean and scalable architecture, True Balances integrates secure user authentication, structured expense categorization, and a dynamic dashboard that provides a clear overview of group spending and individual contributions.
 
-Backend: ASP.NET Core MVC (.NET 8), Entity Framework Core (ORM), ASP.NET Identity (authentication & authorization), SQL Server (relational database).
-Architecture & Patterns: MVC pattern, Repository & service layers, Strong separation of concerns, Secure session and identity management.
-DevOps & Tooling: GitHub (version control), Visual Studio / VS Code, EF Core migrations.
+* Backend: ASP.NET Core MVC (.NET 8), Entity Framework Core (ORM), ASP.NET Identity (authentication & authorization), SQL Server (relational database).
+* Architecture & Patterns: MVC pattern, Repository & service layers, Strong separation of concerns, Secure session and identity management.
+* DevOps & Tooling: GitHub (version control), Visual Studio / VS Code, EF Core migrations.
 
 - 👨‍💻 All of my projects are available at [https://pfag.vercel.app/](https://pfag.vercel.app/)
 
