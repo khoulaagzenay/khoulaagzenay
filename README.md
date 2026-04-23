@@ -1,62 +1,170 @@
-<h1 align="center">Hi 👋, I'm khaoula agzenay, .net Developer</h1>
+<h1 align="center">👋 Hi, I'm khaoula agzenay</h1>
+<h3 align="center">.NET Developer | Building Scalable & Clean Architecture Applications</h3>
 
+---
 
-- 🔭 I’m currently working on [KayLedger](https://kayledger.vercel.app/) : KayLedger is a modern accounting management application designed to provide entrepreneurs, freelancers, and small businesses with a smooth, intuitive, and professional‑grade experience.The platform centralizes client management, invoicing, payments, and double‑entry bookkeeping, while automating the generation of the journal, general ledger, trial balance, and financial statements. With its robust architecture and premium user interface, KayLedger streamlines daily accounting operations, reduces errors, and enables business owners to manage their financial activity with precision.
+## 🚀 About Me
 
- Frontend: React, Vite, Tailwind CSS 4.
- Backend: ASP.NET Core 8, Clean Architecture , MediatR (CQRS pattern) , Entity Framework Core.
- Database: PostgreSQL
- DevOps: Docker, GitHub, Vercel (frontend hosting).
- Quality & Observability: Serilog (structured logging), Swagger (API documentation), EF Core migrations
+- 💻 Passionate **.NET Developer** specialized in building **scalable, maintainable and high-performance applications**
+- 🧠 Strong focus on **Clean Architecture, CQRS, and Domain-Driven Design principles**
+- ⚙️ Experienced in **full-stack development** and **modern DevOps practices**
+- 📈 Building solutions that combine **business logic precision** with **high-quality user experience**
 
-- 👯 I worked in collaboration on: [Truebalances](https://github.com/khoulaagzenay/Truebalances) : True Balances is a modern ASP.NET Core MVC web application designed to simplify the management of shared expenses between multiple users. The platform enables groups—friends, roommates, teams, or families—to record expenses in real time and automatically calculates individual balances, debts, and reimbursements. This ensures a transparent, accurate, and fair distribution of shared costs. Built with a clean and scalable architecture, True Balances integrates secure user authentication, structured expense categorization, and a dynamic dashboard that provides a clear overview of group spending and individual contributions.
+---
 
- Backend: ASP.NET Core MVC (.NET 8), Entity Framework Core (ORM), ASP.NET Identity (authentication & authorization), SQL Server (relational database).
- Architecture & Patterns: MVC pattern, Repository & service layers, Strong separation of concerns, Secure session and identity management.
- DevOps & Tooling: GitHub (version control), Visual Studio / VS Code, EF Core migrations.
+## 🔥 Featured Project
 
-- 👨‍💻 All of my projects are available at [https://pfag.vercel.app/](https://pfag.vercel.app/)
+### 💼 KayLedger – Modern Accounting Platform  
+🔗 https://kayledger.vercel.app/
 
-- 📝 I regularly write articles on [https://kaysolutions.fr/](https://kaysolutions.fr/)
+**KayLedger** is a next-generation accounting management platform designed for **entrepreneurs, freelancers, and small businesses**.
 
-- 📫 How to reach me **khaoula.agzenay@gmail.com**
+It centralizes:
+- Client management  
+- Invoicing & payments  
+- Double-entry bookkeeping  
+- Financial reporting  
 
+⚡ Key Highlights:
+- Automated generation of:
+  - Journal  
+  - General Ledger  
+  - Trial Balance  
+  - Financial Statements  
+- High-performance architecture  
+- Premium and intuitive UI  
+- Error reduction through automation  
 
-<h3 align="left"> 🛠️ Languages and Tools:</h3>
+### 🏗️ Tech Stack
 
-###
+**Frontend**
+- React + Vite  
+- Tailwind CSS 4  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-</div>
+**Backend**
+- ASP.NET Core 8  
+- Clean Architecture  
+- MediatR (CQRS Pattern)  
+- Entity Framework Core  
 
-###
+**Database**
+- PostgreSQL  
 
-<h3 align="left"> 🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khaoula-agzenay/?locale=fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khaoula-agzenay/?locale=fr" height="30" width="40" /></a>
-</p>
+**DevOps & Quality**
+- Docker  
+- GitHub  
+- Vercel (Hosting)  
+- Serilog (Structured Logging)  
+- Swagger (API Documentation)  
+- EF Core Migrations  
+
+---
+
+## ⚡ Backend Project
+
+### 💰 CashManagement API
+
+A robust financial API designed for **cash flow tracking and forecasting**.
+
+### 🧠 Core Capabilities
+- Account management  
+- Transaction tracking (IN / OUT)  
+- Daily balance computation  
+- Financial forecasting engine  
+
+### 🏗️ Architecture
+
+Built with **clean, scalable layered architecture**:
+
+- ASP.NET Core 10  
+- Entity Framework Core  
+- SQL Server  
+- Repository Pattern  
+- Unit of Work  
+- Service Layer  
+- DTOs  
+- RESTful APIs  
+
+🎯 Designed for:
+- High maintainability  
+- Scalability  
+- Testability  
+
+---
+
+## 🤝 Collaboration Project
+
+### 👥 TrueBalances  
+🔗 https://github.com/khoulaagzenay/Truebalances
+
+A collaborative expense management platform for **groups (friends, teams, families)**.
+
+### ⚡ Features
+- Real-time expense tracking  
+- Automatic balance calculation  
+- Debt & reimbursement management  
+- Transparent cost distribution  
+
+### 🏗️ Tech Stack
+
+- ASP.NET Core MVC (.NET 8)  
+- Entity Framework Core  
+- ASP.NET Identity (Auth)  
+- SQL Server  
+
+### 🧩 Architecture
+- MVC Pattern  
+- Repository & Service Layers  
+- Secure authentication & session management  
+
+---
+
+## 🌐 Portfolio & Content
+
+- 👨‍💻 Portfolio: https://pfag.vercel.app/  
+- 📝 Articles: https://kaysolutions.fr/  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+- .NET / ASP.NET Core  
+- C#  
+- Entity Framework Core  
+- SQL Server / PostgreSQL  
+
+### 🎨 Frontend
+- React  
+- TypeScript  
+- Tailwind CSS  
+
+### ⚙️ DevOps & Tools
+- Docker  
+- Git  
+- Linux  
+- Azure  
+- Vercel  
+
+---
+
+## 📊 Strengths
+
+- Clean Architecture & Best Practices  
+- Performance-oriented development  
+- Scalable system design  
+- Strong business logic modeling  
+- API design & optimization  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **khaoula.agzenay@gmail.com**  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/lara  ](https://linkedin.com/in/https://www.linkedin.com/in/khaoula-agzenay/)
+
+---
+
+## ⚡ Motto
+
+> "Building reliable systems is not just about code — it's about architecture, clarity, and long-term vision."
