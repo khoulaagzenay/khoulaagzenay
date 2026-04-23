@@ -161,7 +161,7 @@ A collaborative expense management platform for **groups (friends, teams, famili
 ## 📫 Contact
 
 - 📧 Email: **khaoula.agzenay@gmail.com**  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/lara  ](https://linkedin.com/in/https://www.linkedin.com/in/khaoula-agzenay/)
+- 🔗 LinkedIn: [khaoula agzenay](www.linkedin.com/in/khaoula-agzenay)
 
 ---
 
