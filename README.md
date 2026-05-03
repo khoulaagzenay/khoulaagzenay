@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm khaoula agzenay</h1>
-<h3 align="center">.NET Developer | Building Scalable & Clean Architecture Applications</h3>
+<h3 align="center">.NET Developer | Financial and Accounting Software | ASP.NET Core · Clean Architecture · CQRS</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 💻 Passionate **.NET Developer** specialized in building **scalable, maintainable and high-performance applications**
 - 🧠 Strong focus on **Clean Architecture, CQRS, and Domain-Driven Design principles**
-- ⚙️ Experienced in **full-stack development** and **modern DevOps practices**
+- ⚙️ Experienced in **.NET developer specializing in finance & management** and **modern DevOps practices**
 - 📈 Building solutions that combine **business logic precision** with **high-quality user experience**
 
 ---
